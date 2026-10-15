@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-test
 
-My name is Debbie
+My name is Debbie!
 <!--
 **debbie-daniel/debbie-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
